@@ -13,15 +13,15 @@ I believe that the total income will be the main factor in determining whether o
 
 
 ## Process
-### (your step 1)
-Exploring the initial data I plotted several graphs that show relationship between 
-### (your step 2)
+### Step 1
+Exploring the initial data I plotted several graphs that showed a rough linear relationship between Income and the amount of the loan.
+### Step 2
 
 ## Results/Demo
-(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
+The model performed well with little over 
 
 ## Challanges 
-(discuss challenges you faced in the project)
+The biggest Challenge for this project was setting up the pipeline.
 
 ## Future Goals
-(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
+The biggest issue I see with the model is the lack of training data that we can use, only having ~600 points to train it 
