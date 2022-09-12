@@ -3,18 +3,18 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to implement and delpoy a model to a cloud that can be called upon.  The model is used to predict whether someones loan will be approved.
 
 ## Hypothesis
-(fill in your hypothesis about which subset of applicants will be most likely to have their loan approved, and why. Give some examples of how you will test this hypothesis)
+I believe that the total income will be the main factor in determining whether or not a loan is approved.
 
 ## EDA 
 (fill in what you discovered in your exploration of the dataset)
 
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
 ### (your step 1)
+Exploring the initial data I plotted several graphs that show relationship between 
 ### (your step 2)
 
 ## Results/Demo
